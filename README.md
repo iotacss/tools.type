@@ -78,7 +78,7 @@ Use a map as a parameter to create a responsive font-size.
 ```sass
 $type-head-large: (
   null: 20px,
-    sm: 26px
+  sm: 26px
 );
 
 .h1 {
@@ -108,7 +108,7 @@ Use a map of lists as a parameter to create a responsive font-size and line-heig
 ```sass
 $type-head-large: (
   null: (20px, 26px),
-    sm: (26px, 30px)
+  sm: (26px, 30px)
 );
 
 .h1 {
