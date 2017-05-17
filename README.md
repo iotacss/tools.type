@@ -1,3 +1,5 @@
+**iotaCSS is now a monorepo and all individual repositories are part of it. Please open issues or PRs here: [https://github.com/iotacss/iotacss](https://github.com/iotacss/iotacss).**
+
 # Type Tool
 
 The type tool contains a mixin that helps you create smart, flexible and responsive typography.
